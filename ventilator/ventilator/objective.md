@@ -1,10 +1,6 @@
----
-description: Open Source Medical Technologies
----
+# Objective
 
-# Open Health Labs
-
-## What is Open Health Labs?
+## Can I become who I want to be?
 
 That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
 
