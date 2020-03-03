@@ -4,13 +4,13 @@
 * [Core Objectives](core-objectives.md)
 * [Disclaimer](disclaimer.md)
 
-## Projects <a id="ventilator"></a>
+## Projects
 
-* [Ventilator](ventilator/ventilator/README.md)
-  * [Build](ventilator/ventilator/build/README.md)
-    * [BVM](ventilator/ventilator/build/bvm.md)
-    * [Enclosure](ventilator/ventilator/build/enclosure.md)
-    * [Electronics](ventilator/ventilator/build/electronics.md)
-* [OrthoClear](ventilator/orthoclear.md)
-* [Dialysis](ventilator/dialysis.md)
+* [Ventilator](projects/ventilator/README.md)
+  * [Build](projects/ventilator/build/README.md)
+    * [BVM](projects/ventilator/build/bvm.md)
+    * [Enclosure](projects/ventilator/build/enclosure.md)
+    * [Electronics](projects/ventilator/build/electronics.md)
+* [OrthoClear](projects/orthoclear.md)
+* [Dialysis](projects/dialysis.md)
 
