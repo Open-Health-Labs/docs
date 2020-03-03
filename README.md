@@ -6,7 +6,7 @@ description: Open Source Medical Technologies
 
 ## What is Open Health Labs?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+Open Health labs is an open source initiative to create, design, and make available critical medical devices.
 
 ## How to contribute:
 
